@@ -5,12 +5,6 @@ Dublin bikes are a very popular mode of transportation in Dublin because they fa
 The website provides real-time information regarding the availability of bikes and stands at each station in Dublin.
 Additionally, it offers weather information.
 
-Included extras are the following:
-
-- Full screen mode
-- Find my Location
-
-The functionality of the project is verified on two computers with distinct operating systems.
 
 ### Dependencies
 
